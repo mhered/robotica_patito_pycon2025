@@ -1,11 +1,28 @@
-# robotica_patito_pycon2025
+<div align="left"><picture><img src="./assets/robot_duckie_logo_color.png" style="zoom:20%;" /></picture></div>
 
-Created to save training notebook
+# Python, a robot and a rubber duckie
 
-Collab: https://colab.research.google.com/github/huggingface/notebooks/blob/main/lerobot/training-act.ipynb#scrollTo=Ufss6US6xbpi
+Companion repo for the talk **"Robótica accesible con Python y un patito de goma: de lo básico al aprendizaje por inteligencia artificial"** at [PyConEs2025](https://2025.es.pycon.org/), by [Manuel Heredia Ortiz](https://www.linkedin.com/in/manuelheredia/) and [Manuel Martin Mairal](https://www.linkedin.com/in/manuel-m-43b724142/)
 
-WandB: https://wandb.ai/spam-mhered-duckietown/lerobot/runs/6ijc76vf?nw=nwuserspammhered
+## Contents
 
-My repo: https://github.com/mhered/my_SO100ARM
+* [About the talk and the authors](./about.md)
+* [Installation](./installation.md)
+* [Quick start](quickstart.md)
+* [Training ACT](./training_act.md) - and the corresponding [ACT Collab training notebook](./notebooks/training_act.ipynb)
+* [Training SmolVLA](./training_SmolVLA.md) - and the corresponding [SmolVLA Collab training notebook](./notebooks/training_smolvla.ipynb)
 
+* [Weights & Biases dashboard](https://wandb.ai/spam-mhered-duckietown/lerobot/runs/6ijc76vf?nw=nwuserspammhered)
 
+## Resources
+
+* [LeRobot](https://huggingface.co/docs/lerobot/en/index)
+
+* [mhered/my_SOARM](https://github.com/mhered/my_SO100ARM) repository
+
+## Todo 
+
+- [ ] add 3D printing & assembly
+- [ ] add basic python instructions
+- [ ] add ROS modeling etc
+- [ ] add pics and videos recording datasets and inference
