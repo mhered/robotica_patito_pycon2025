@@ -9,8 +9,16 @@ Companion repo for the talk **"Robótica accesible con Python y un patito de gom
 * [About the talk and the authors](./about.md)
 * [Installation](./installation.md)
 * [Quick start](quickstart.md)
-* [Training ACT](./training_act.md) - and the corresponding [ACT Collab training notebook](./notebooks/training_act.ipynb)
-* [Training SmolVLA](./training_SmolVLA.md) - and the corresponding [SmolVLA Collab training notebook](./notebooks/training_smolvla.ipynb)
+* [Training ACT](./training_act.md) - with the corresponding
+  * [ACT Collab training notebook](./notebooks/training_act.ipynb)
+  * [ACT pretrained policy](https://huggingface.co/mhered/my_act/tree/main)
+
+* [Training SmolVLA](./training_SmolVLA.md) - and the corresponding 
+  * [SmolVLA Collab training notebook](./notebooks/training_smolvla.ipynb)
+
+  * [SmolVLA pretrained policy](https://huggingface.co/mhered/my_smolvla/tree/main)
+
+* [mhered/recording-test](https://huggingface.co/datasets/mhered/recording-test) dataset - check it out in the [LeRobot Dataset Visualizer](https://huggingface.co/spaces/lerobot/visualize_dataset)
 
 * [Weights & Biases dashboard](https://wandb.ai/spam-mhered-duckietown/lerobot/runs/6ijc76vf?nw=nwuserspammhered)
 
