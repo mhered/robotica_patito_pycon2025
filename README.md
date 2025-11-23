@@ -26,11 +26,8 @@ Companion repo for the talk **"Robótica accesible con Python y un patito de gom
 
 * [LeRobot](https://huggingface.co/docs/lerobot/en/index)
 
-* [mhered/my_SOARM](https://github.com/mhered/my_SO100ARM) repository
+* [mhered/my_SOARM](https://github.com/mhered/my_SO100ARM) repository contains:
+    -  [Python scripts for basic low-level control of the robot arm servos, notes and code](https://github.com/mhered/my_SO100ARM/blob/main/scripts/README.md)  
+    -  [Notes on modeling the SO100ARM and the world for Gazebo using URDF and SDF](https://github.com/mhered/my_SO100ARM/blob/main/URDF.md)  
+    -  [Assembly instructions](https://github.com/mhered/my_SO100ARM/blob/main/Assembly.md)  
 
-## Todo 
-
-- [ ] add 3D printing & assembly
-- [ ] add basic python instructions
-- [ ] add ROS modeling etc
-- [ ] add pics and videos recording datasets and inference
